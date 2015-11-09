@@ -8,4 +8,4 @@ Each week we'll build on this project as we take you through HTML and CSS. This 
 
 9th November 2015
 -----------------
-- [Version 3](OliverGage.github.io/John-Baskerville/version3.html)
+- [Version 3](http://OliverGage.github.io/John-Baskerville/version3.html)
